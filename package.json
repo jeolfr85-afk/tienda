@@ -1,0 +1,11 @@
+{
+  "name": "nubo-tienda",
+  "private": true,
+  "description": "NUBO — tienda de refacciones (documentación y evidencias)",
+  "scripts": {
+    "evidencias": "node scripts/capture-evidencias.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.51.0"
+  }
+}

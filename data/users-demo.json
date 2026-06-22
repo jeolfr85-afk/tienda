@@ -1,0 +1,14 @@
+[
+  {
+    "usuario": "demo",
+    "password": "demo123",
+    "nombre": "Usuario Demo",
+    "email": "demo@nubo.com"
+  },
+  {
+    "usuario": "cliente",
+    "password": "cliente123",
+    "nombre": "Juan Pérez",
+    "email": "cliente@nubo.com"
+  }
+]
